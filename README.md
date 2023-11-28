@@ -40,15 +40,35 @@ RegisterNumber:
 */
 
 ## Output:
+## HALF SUBTRACTOR
+![hal sub pro](https://github.com/JAGADEESHJ97/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152129419/e972dff4-3af7-4dab-a0d7-2d2ced7ba94b)
+
+## FULL SUBTRACTOR
+![ful sub pro](https://github.com/JAGADEESHJ97/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152129419/b232d4ea-d933-4d7d-a8f7-0506fabc5f4f)
 
 ## Truthtable
 
+## HALF SUBTRACTOR
+![TT SUB HAL](https://github.com/JAGADEESHJ97/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152129419/ce67d561-6f69-4db6-817b-580cdce622d2)
 
+## FULL SUBTRACTOR
+![TT SUB FULL](https://github.com/JAGADEESHJ97/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152129419/4d7c42d0-0ac5-4b69-b604-c63b2069c6e8)
 
 ##  RTL realization
 
+## HALF SUBTRACTOR
+![RTL SUB HAL](https://github.com/JAGADEESHJ97/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152129419/c2cd6ea4-49eb-44be-a4d1-a93655c1d967)
+
+## FULL SUBTRACTOR
+![RTL FULL SUB](https://github.com/JAGADEESHJ97/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152129419/64f793b4-8428-4537-a098-3082bd14fa3e)
 
 ## Timing diagram 
+
+## HALF SUBTRACTOR
+![TIME SUB HAL](https://github.com/JAGADEESHJ97/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152129419/74d456e7-bca0-48e9-ac7d-89c7c6372dfa)
+
+## FULL SUBTRACTOR
+![TIME SUB FULL](https://github.com/JAGADEESHJ97/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152129419/66e09e21-cb1a-4227-8480-33861d1c21f5)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
